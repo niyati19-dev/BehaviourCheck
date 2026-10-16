@@ -119,4 +119,24 @@ Prediction confidence represents the machine learning model's confidence in its 
 
 ---
 
+## 📸 Project Screenshots
+
+### 1. Home Page
+
+The home page introduces BehaviourCheck and its behavioral analysis concept.
+
+![BehaviourCheck Home Page](screenshots/home.png)
+
+### 2. Interactive Drawing Canvas
+
+The drawing canvas allows users to draw handwritten digits for recognition.
+
+![BehaviourCheck Drawing Canvas](screenshots/canvas.png)
+
+### 3. Prediction and Behavioral Analysis
+
+This section displays digit predictions, prediction confidence, and available behavioral metrics.
+
+![BehaviourCheck Prediction and Analysis](screenshots/prediction-analysis.png)
+
 ⭐ Thank you for visiting BehaviourCheck!
